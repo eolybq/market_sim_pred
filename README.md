@@ -2,7 +2,7 @@
 
 **Project has its own report available (in Czech) locally here:** [As PDF](/report.pdf) [As DOCX](/report.docx)
 
-This project takes data from simulated market game that taked place in my University and shows how linear regression model can perform in predicting stock price of enterprices on this simulated market.
+This project takes data from simulated market game that taked place in my University and shows how linear regression model can perform in predicting stock price of enterprises on this simulated market.
 Main aim is to showcase data manipulation, data cleaning, processing and web scraping, in-depth analysis and model evaluation, aswell as prediciton evaluation, data visualization. 
 Prediction for specific enterprise is based on financial statements (Balance sheet, Profit & Loss statement) and past values of stock price scraped from Uni simulated game website. 
 
